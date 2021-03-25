@@ -15,7 +15,7 @@ function bmi() {
       if (valueBMI < 18.5) {
         classification = 'you are underweight, your risk of comorbidities is low.';
       } else if (valueBMI < 25) {
-        classification = 'you are normal weight, your risk of comorbidities is average.';
+        classification = 'you are normal weight, you dont have risck of comorbidities .';
       } else if (valueBMI < 30) {
         classification = 'you are overweight, your risk of comorbidities is increased.';
       } else if (valueBMI < 35) {
