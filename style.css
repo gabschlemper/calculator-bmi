@@ -64,5 +64,9 @@ input {
   border: 1px solid #F1F6FF;
   border-radius: 8px;
   padding: 20px;
+  display: flex;
+  align-items: center;
+  color: #315181;
+  font-weight: 700;
   /* user-select: none; */
 }
